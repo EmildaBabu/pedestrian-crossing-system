@@ -11,3 +11,7 @@ To enhance pedestrian safety, improve traffic efficiency, and create a more visi
 6. LED
 ## BLOCK DIAGRAM
 
+![blockdiagram](https://github.com/EmildaBabu/pedestrian-crossing-system/blob/76f119826ea9ddd5493840dd3e08ced00e4e9d4c/blockdiagram.JPG)
+
+## Linkedin
+[Working demo](https://www.linkedin.com/posts/emildababu_smart-pedestrian-crossing-the-smart-pedestrian-activity-7294728905268080642-HXuT?utm_source=share&utm_medium=member_android&rcm=ACoAAESb094BLLgjC4CNOMXZxE2eOt9Lr_BX71E)
