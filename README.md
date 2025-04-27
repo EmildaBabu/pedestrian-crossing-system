@@ -70,8 +70,6 @@ void setup()
     centmot.write(20);
     sidemot.write(90);
 
- put your setup code here, to run once:
-
 }
 
 void loop()
