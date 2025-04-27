@@ -17,3 +17,4 @@ To enhance pedestrian safety, improve traffic efficiency, and create a more visi
 [Working demo](https://www.linkedin.com/posts/emildababu_smart-pedestrian-crossing-the-smart-pedestrian-activity-7294728905268080642-HXuT?utm_source=share&utm_medium=member_android&rcm=ACoAAESb094BLLgjC4CNOMXZxE2eOt9Lr_BX71E)
 
 ## Output
+![image1](https://github.com/EmildaBabu/pedestrian-crossing-system/blob/151d5abf16db7db661b0e526b48675c8b2358be2/During%20Normal%20time.jpg)
